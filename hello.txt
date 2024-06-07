@@ -1,2 +1,4 @@
 Hello world!
 My name is Seungjae.
+My student number
+is 2020-15679.
